@@ -1,0 +1,38 @@
+body {
+padding: 10px 15%;
+}
+
+.pos1{ 
+background-color: grey;
+padding: 30px;
+position: fixed;
+top: 0px;
+left: 0px;
+width: 250px;
+text-align: center;
+color: white;
+}
+
+.pos2 {
+padding: 20px;
+background-color: #444444;
+position: absolute;
+bottom: 0px;
+right: -10px;
+text-align: center;
+color: white;
+}
+
+
+
+
+
+.pos3 {
+    background-color: grey;
+    padding: 20px;
+position: relative;
+height: 150px;
+text-align: center;
+color: white;
+}
+
